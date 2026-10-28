@@ -34,3 +34,4 @@ Thumbs.db
 .claude/
 graphify-out/
 Screenshot *.png
+.playwright-mcp/
