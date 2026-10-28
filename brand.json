@@ -1,0 +1,9 @@
+{
+  "name": "Kawn",
+  "slug": "kawn",
+  "tagline": "See the whole city.",
+  "domain": "",
+  "_note": "Single source of truth for the product name. Change here only; every other file reads from it.",
+  "name_ar": "كون",
+  "tagline_ar": "شاهد المدينة كاملة."
+}
